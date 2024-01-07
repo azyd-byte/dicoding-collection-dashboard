@@ -21,4 +21,4 @@ Tampilan Order harian
 ![tampilan dashboard](images/dashboard-1.png)  
 
 Tampilan demografi pelanggan dan Pelanggan terbaik berdasarkan analisis RFM
-![tampilan dashboard](images/dashboard-1.png)
+![tampilan dashboard](images/dashboard-2.png)
