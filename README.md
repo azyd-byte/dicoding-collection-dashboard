@@ -15,3 +15,10 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+# Contoh tampilan dashboard
+Tampilan Order harian  
+![tampilan dashboard](images/dashboard-1.png)  
+
+Tampilan demografi pelanggan dan Pelanggan terbaik berdasarkan analisis RFM
+![tampilan dashboard](images/dashboard-1.png)
